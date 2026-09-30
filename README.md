@@ -1,6 +1,6 @@
 ![image alt](https://github.com/angleterre-satw/Uhhh/blob/bb276e63811ef682bc549c316197068c2102312b/Untitled19_20260924172928.png)
 <div align="center">Hello old chaps, lovely weather.
-<img align="right" src="[YOUR_IMAGE_URL](https://github.com/angleterre-satw/Uhhh/blob/1019f4b7f83413a6d8d570a1997e0d8b80e34e19/omg%20englanflsdgffh.JPG)"
+<img align="right" src="[https://github.com/angleterre-satw/Uhhh/blob/1019f4b7f83413a6d8d570a1997e0d8b80e34e19/omg%20englanflsdgffh.JPG]
 <div align="center">https://englandsatw.straw.page/
 ![image alt](https://github.com/angleterre-satw/Uhhh/blob/a3f5b63c5e6c4334a069e9698cf3f8295afc28cd/tea-anime.gif)
 <div align="center">im not good at coding ok

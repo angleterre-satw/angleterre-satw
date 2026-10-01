@@ -6,5 +6,6 @@
 <div align="center">im not good at coding ok
 
 <div align="left">sign my le strawpage or nah
+<div align="right">SatW England's 1# fan!
 
 <div align="center">WIP!!!!!

@@ -96,6 +96,12 @@ $$ \Huge \color{red}{\text{SatW england/ Japan hetalia/SatW Fan!}} $$
 
 </div>
 
+<div align="center">
+
+$$ \Huge \color{red}{\text{FOR PONYTOWN USES ONLY!!}} $$
+
+</div>
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

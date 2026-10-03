@@ -45,6 +45,8 @@ $$ \Huge \color{red}{\text{Not if you pay me million dollar.}} $$
 
 $$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 
+$$ \Huge \color{red}{\text{https://k0nn1ch1w4.straw.page}} $$
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

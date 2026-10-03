@@ -36,3 +36,14 @@ $$ \Huge \color{red}{\text{Not if you pay me million dollar.}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
+<div align="center">
+
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/5397485a8eefc0cc8a4456b188d51fe29c3f55b8/7091b8c1-49aa-497b-adfd-5df47fa77270.jpeg)
+
+</div>
+
+$$ \Huge \color{blue}{\text{Menheramen!}} $$
+
+<h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+
+

@@ -64,6 +64,12 @@ $$ \Huge \color{red}{\text{SatW england/ Japan hetalia/SatW Fan!}} $$
 
 </div>
 
+<div align="right">
+
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/1894ed120c668aef6c2ecda0c68d79373420e855/hetalia-japan-hws-japan.gif)
+
+</div>
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

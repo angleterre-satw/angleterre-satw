@@ -42,11 +42,7 @@ $$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
-<div align="center">
 
-![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/d0528a2bad5ab94400e4f208028eb81b14addfde/%E2%86%B7%EF%B9%92%E2%9C%A7%EF%B9%92banner.jpe)
-
-</div>
 
 <div align="center">
 
@@ -57,6 +53,12 @@ $$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 $$ \Huge \color{blue}{\text{Menheramen!}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+
+<div align="center">
+
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/d0528a2bad5ab94400e4f208028eb81b14addfde/%E2%86%B7%EF%B9%92%E2%9C%A7%EF%B9%92banner.jpe)
+
+</div>
 
 <div align="left">
 

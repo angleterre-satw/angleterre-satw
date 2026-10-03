@@ -38,7 +38,7 @@ $$ \Huge \color{red}{\text{Not if you pay me million dollar.}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
-$$ \Huge \color{red}{\text{!! ADHD PERSON !!}} $$
+$$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 

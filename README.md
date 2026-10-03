@@ -52,4 +52,21 @@ $$ \Huge \color{blue}{\text{Menheramen!}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
+<div align="left">
+
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/04ec4b05dda5b6ba23eb17e3acbf6e2ebeaa1ef7/hetalia-hetalia-japan.gif)
+
+</div>
+
+<div align="left">
+
+$$ \Huge \color{red}{\text{SatW england/ Japan hetalia/SatW Fan!}} $$
+
+</div>
+
+<h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+
+
+
+
 

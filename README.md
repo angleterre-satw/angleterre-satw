@@ -26,5 +26,9 @@ $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
 </div>
 
-<h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+<div align="center">
+
+$$ \Huge \color{red}{\text{Not if you pay me million dollar.}} $$
+
+</div>
 

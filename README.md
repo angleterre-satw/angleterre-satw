@@ -44,6 +44,12 @@ $$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 
 <div align="center">
 
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/d0528a2bad5ab94400e4f208028eb81b14addfde/%E2%86%B7%EF%B9%92%E2%9C%A7%EF%B9%92banner.jpe)
+
+</div>
+
+<div align="center">
+
 ![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/5397485a8eefc0cc8a4456b188d51fe29c3f55b8/7091b8c1-49aa-497b-adfd-5df47fa77270.jpeg)
 
 </div>

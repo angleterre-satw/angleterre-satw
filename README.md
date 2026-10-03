@@ -22,7 +22,7 @@ $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
 <div align="center">hi hello
   
-<div align="center">https://englandsatw.straw.page/
+<h1 align="center">https://englandsatw.straw.page/</h1>
 
 <div align="center">im not good at coding ok
 

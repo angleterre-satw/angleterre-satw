@@ -51,7 +51,11 @@ $$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
+<div align="center">
 
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/90b468df26cd19037858692307a9ddae7b1354ef/%E2%9C%A6.jpe)
+
+</div>
 
 <div align="center">
 

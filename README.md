@@ -20,4 +20,11 @@ $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 <div align="left">sign my le strawpage or nah
 <div align="right">SatW England's 1# fan!
 
-<div align="center">WIP!!!!!
+<div align="center">
+
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/ee2055cecd1119f39ce240d683e9cd1d7c20f09b/frying%20pan.JPG)
+
+</div>
+
+<h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+

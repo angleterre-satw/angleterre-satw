@@ -2,6 +2,8 @@
 
 <h1 align="center">! Kai/tanner !</h1>
 
+<h1 align="center">Ft. My favorite characters!</h1>
+
 <div align="center">
 
 ![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/bb276e63811ef682bc549c316197068c2102312b/Untitled19_20260924172928.png)

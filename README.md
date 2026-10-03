@@ -69,4 +69,3 @@ $$ \Huge \color{red}{\text{SatW england/ Japan hetalia/SatW Fan!}} $$
 
 
 
-

@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-$\color{red}{\text{Hello old chaps, lovely weather.}}$
+$$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
 </div>
 

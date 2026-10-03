@@ -58,7 +58,7 @@ $$ \Huge \color{blue}{\text{Menheramen!}} $$
 
 </div>
 
-<div align="left">
+<div align="right">
 
 $$ \Huge \color{red}{\text{SatW england/ Japan hetalia/SatW Fan!}} $$
 

@@ -1,5 +1,10 @@
-<h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
+<div align="center">
 
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/a342550fc9a40f6e04b0001f9d5d209cd85a6550/download%20(2).jpe)
+
+</div>
+
+<h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 <h1 align="center">! Kai/tanner !</h1>
 
 <h1 align="center">Ft. My favorite characters!</h1>

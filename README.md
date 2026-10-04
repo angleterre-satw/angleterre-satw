@@ -104,6 +104,12 @@ $$ \Huge \color{red}{\text{FOR PONYTOWN USES ONLY!!}} $$
 
 <div align="center">
 
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/79b7f276fd516c95ca994a1a6f2cdf0f9ee0ec04/download%20(35).jpe)
+
+</div>
+
+<div align="center">
+
 $$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
 
 </div>

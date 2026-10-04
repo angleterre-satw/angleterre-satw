@@ -108,6 +108,12 @@ $$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
 
 </div>
 
+<div align="right">
+
+![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/b446a36bad8b4bfba30edb3c868d7ed8f25d9891/yayyyyyyyyyyy.gif)
+
+</div>
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

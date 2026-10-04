@@ -102,6 +102,12 @@ $$ \Huge \color{red}{\text{FOR PONYTOWN USES ONLY!!}} $$
 
 </div>
 
+<div align="center">
+
+$$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
+
+</div>
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

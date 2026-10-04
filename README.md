@@ -114,11 +114,7 @@ $$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
 
 </div>
 
-<div align="left">
-
-$$ \Huge \color{red}{\text{Hhheeyyy its me its england}} $$
-
-</div>
+<p align="left">Hhheeyyy its me its england</p>
 
 
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>

@@ -114,7 +114,8 @@ $$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
 
 </div>
 
-# $\color{red}{\text{Hhheeyyy its me its england}}$
+[![Typing SVG](https://demolab.com)](https://git.io)
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

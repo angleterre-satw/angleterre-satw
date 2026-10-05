@@ -147,6 +147,13 @@ $$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
 
 # $\color{red}{\text{Hhheeyyy its me its england}}$
 
+<div align="center">
+
+# $\color{red}{\text{Be my friend/moot! im always happy when someone wants to become my friend because of my favorite interests!}}$
+
+</div>
+
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 

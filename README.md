@@ -60,7 +60,7 @@ $$ \Huge \color{red}{\text{!! ADHD PERSON !! please be aware of me.}} $$
 
 <div align="center">
 
-$$ \Huge \color{red}{\text{Im an ambivert yeah ^^}} $$
+$$ \Huge \color{red}{\text{Im an ambivert yeah!}} $$
 
 </div>
 

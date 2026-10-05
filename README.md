@@ -20,6 +20,12 @@ $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
 </div>
 
+<div align="center">
+
+$$ \Huge \color{red}{\text{Pppleeaaaseee dont shout at me when i get confused at something}} $$
+
+</div>
+
 <div align="center">hi hello
   
 <h1 align="center">https://englandsatw.straw.page/</h1>

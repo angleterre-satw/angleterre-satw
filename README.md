@@ -26,6 +26,13 @@ $$ \Huge \color{red}{\text{Pppleeaaaseee dont shout at me when i get confused at
 
 </div>
 
+<div align="center">
+
+$$ \Huge \color{red}{\text{Im a scorching blood infection cohost folk! im happy to serve.}} $$
+
+</div>
+
+
 <div align="center">hi hello
   
 <h1 align="center">https://englandsatw.straw.page/</h1>

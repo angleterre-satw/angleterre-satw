@@ -82,6 +82,12 @@ $$ \Huge \color{red}{\text{Im an ambivert yeah!}} $$
 
 $$ \Huge \color{blue}{\text{Menheramen!}} $$
 
+<div align="center">
+
+$$ \Huge \color{blue}{\text{Dni: N@zis, homophobics, transphobics, racists, problematic people sigh}} $$
+
+</div>
+
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h1>
 
 <div align="center">

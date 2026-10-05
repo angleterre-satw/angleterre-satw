@@ -149,7 +149,7 @@ $$ \Huge \color{red}{\text{Scorching blood infection cohost here!}} $$
 
 <div align="center">
 
-# $\color{red}{\text{Be my friend/moot! im always happy when someone wants to become my friend because of my favorite interests!}}$
+# $\color{red}{\text{Be my friend/moot! dont be shy!}}$
 
 </div>
 

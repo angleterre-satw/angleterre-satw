@@ -18,7 +18,7 @@
 
 $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
-![Splendid Guests](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Splendid%20Guests&color=blue&style=flat)
+![Splendid Guests](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Splendid%20Guests&color=red&style=flat)
 
 </div>
 

@@ -18,6 +18,8 @@
 
 $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+
 </div>
 
 <div align="center">

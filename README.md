@@ -18,8 +18,7 @@
 
 $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
-<img src="https://visitorbadge.io" />
-
+![Splendid Guests](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Splendid%20Guests&color=blue&style=flat)
 
 </div>
 

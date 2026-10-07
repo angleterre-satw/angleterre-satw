@@ -18,7 +18,7 @@
 
 $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
-![hello](https://komarev.com/ghpvc/?username=angleterre-satw&color=red)
+![](https://komarev.com/ghpvc/?username=angleterre-satw&color=red)
 
 </div>
 

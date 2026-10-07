@@ -18,7 +18,7 @@
 
 $$ \Huge \color{red}{\text{Hello old chaps, lovely weather.}} $$
 
-![](https://komarev.com)
+<img src="https://komarev.com" />
 
 </div>
 

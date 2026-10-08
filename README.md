@@ -11,6 +11,8 @@
 
 ![splendid guests](https://komarev.com/ghpvc/?username=angleterre-satw&label=splendid%20guests&color=red&style=flat)
 
+<h1 align="center">![splendid guests](https://komarev.com/ghpvc/?username=angleterre-satw&label=splendid%20guests&color=red&style=flat)</h1>
+
 <div align="center">
 
 ![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/bb276e63811ef682bc549c316197068c2102312b/Untitled19_20260924172928.png)

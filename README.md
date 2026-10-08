@@ -25,6 +25,13 @@
 
 <div align="center">
 
+$$ \Huge \color{red}{\text{i turned the typing animation to gif yeah sighh}} $$
+
+</div>
+
+
+<div align="center">
+
 $$ \Huge \color{red}{\text{Pppleeaaaseee dont shout at me when i get confused at something}} $$
 
 </div>

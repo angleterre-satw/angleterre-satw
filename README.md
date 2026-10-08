@@ -13,53 +13,11 @@
 
 ![Alt Text](https://github.com/angleterre-satw/Uhhh/blob/bb276e63811ef682bc549c316197068c2102312b/Untitled19_20260924172928.png)
 
-</div>
 <div align="center">
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background: #0d1117;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
+$$ \Huge \color{red}{\text{Hello old chaps, FOOTBALL! }} $$
 
-  #typing {
-    font-family: Arial, sans-serif;
-    font-size: 70px;
-    font-weight: bold;
-    color: red;
-    text-align: center;
-  }
-</style>
-</head>
-
-<body>
-
-<h1 id="typing"></h1>
-
-<script>
-const text = "Hello old chaps, FOOTBALL!";
-let i = 0;
-
-function typeWriter() {
-  if (i < text.length) {
-    document.getElementById("typing").textContent += text[i];
-    i++;
-    setTimeout(typeWriter, 100);
-  }
-}
-
-typeWriter();
-</script>
-
-</body>
-</html>
+</div>
 
 ![splendid guests](https://komarev.com/ghpvc/?username=angleterre-satw&label=splendid%20guests&color=red&style=flat)
 

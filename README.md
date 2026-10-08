@@ -9,9 +9,9 @@
 
 <h1 align="center">Ft. My favorite characters!</h1>
 
-![splendid guests](https://komarev.com/ghpvc/?username=angleterre-satw&label=splendid%20guests&color=red&style=flat)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=angleterre-satw&label=splendid%20guests&color=red&style=flat" alt="splendid guests">
+</p>
 
 <div align="center">
 

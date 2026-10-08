@@ -25,7 +25,7 @@
 
 <div align="center">
 
-$$ \Huge \color{red}{\text{i turned the typing animation to gif yeah sighh}} $$
+$$ \Huge \color{black}{\text{i turned the typing animation to gif yeah sighh}} $$
 
 </div>
 

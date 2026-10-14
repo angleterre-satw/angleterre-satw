@@ -54,6 +54,8 @@ $$ \Huge \color{red}{\text{Im a scorching blood infection cohost folk! im happy 
 
 <div align="center">im not good at coding ok
 
+<div align="center">this splendid guests thing might disappear bro
+
 <div align="left">sign my le strawpage or nah
 <div align="right">SatW England's 1# fan!
 
